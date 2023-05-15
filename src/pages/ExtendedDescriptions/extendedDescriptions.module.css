@@ -1,0 +1,15 @@
+.disc {
+  display: flex;
+  margin-top: 50px;
+}
+
+.disc__list {
+  display: flex;
+}
+
+.disc__text {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid #ccc;
+  margin: 1px;
+}
