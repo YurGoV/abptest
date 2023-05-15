@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/365.75c09f1d.chunk.css","mappings":"AAAA,+BAEE,qBAAsB,CADtB,YAEF","sources":["pages/DecodeVin/decodevin.module.css"],"sourcesContent":[".decode__list {\n  display: flex;\n  border: 1px solid grey;\n}\n"],"names":[],"sourceRoot":""}
